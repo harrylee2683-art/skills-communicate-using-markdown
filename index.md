@@ -11,3 +11,6 @@ class Animail(String name) {
 
 }
 ```
+- [ ] Shopping
+- [ ] Food in the bucket
+- [x] Wash food
